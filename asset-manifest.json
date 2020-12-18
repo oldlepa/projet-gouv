@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projet-gouv/static/css/main.239a5c0d.chunk.css",
+    "main.js": "/projet-gouv/static/js/main.40d21ef9.chunk.js",
+    "main.js.map": "/projet-gouv/static/js/main.40d21ef9.chunk.js.map",
+    "runtime-main.js": "/projet-gouv/static/js/runtime-main.e5f7997d.js",
+    "runtime-main.js.map": "/projet-gouv/static/js/runtime-main.e5f7997d.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/projet-gouv/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.cd7c8da5.chunk.js": "/projet-gouv/static/js/2.cd7c8da5.chunk.js",
+    "static/js/2.cd7c8da5.chunk.js.map": "/projet-gouv/static/js/2.cd7c8da5.chunk.js.map",
+    "index.html": "/projet-gouv/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/projet-gouv/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.239a5c0d.chunk.css.map": "/projet-gouv/static/css/main.239a5c0d.chunk.css.map",
+    "static/js/2.cd7c8da5.chunk.js.LICENSE.txt": "/projet-gouv/static/js/2.cd7c8da5.chunk.js.LICENSE.txt",
+    "static/media/chateau.a10ab3f8.jpg": "/projet-gouv/static/media/chateau.a10ab3f8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5f7997d.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.cd7c8da5.chunk.js",
+    "static/css/main.239a5c0d.chunk.css",
+    "static/js/main.40d21ef9.chunk.js"
+  ]
+}
